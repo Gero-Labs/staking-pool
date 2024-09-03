@@ -1,0 +1,13 @@
+{
+  "info": {
+    "social": {
+      "telegram_handle": "GeroWallet",
+      "twitter_handle": "GeroWallet",
+      "youtube_handle": "gerowallet",
+      "discord_handle": "Wj4EyjNdNb"
+    },
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/Gero-Labs/staking-pool/main/logo-64.png",
+    "url_png_logo": "https://raw.githubusercontent.com/Gero-Labs/staking-pool/main/logo-400.png"
+  },
+  "verification": "c125ae97a4756e0189"
+}
