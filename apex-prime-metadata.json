@@ -1,0 +1,7 @@
+{
+  "ticker": "GERO",
+  "name": "Gero Labs",
+  "description": "Official Stake Pool of Gero Labs. Pioneering the fusion of Web2 and Web3 technologies.",
+  "extended": "https://raw.githubusercontent.com/Gero-Labs/staking-pool/main/extended-meta.json",
+  "homepage": "https://gerowallet.io/"
+}
